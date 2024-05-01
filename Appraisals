@@ -1,3 +1,7 @@
+appraise "7.1" do
+  gem "activerecord", "~> 7.1"
+end
+
 appraise "7.0" do
   gem "activerecord", "~> 7.0"
 end
